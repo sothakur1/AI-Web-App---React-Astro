@@ -1,0 +1,2 @@
+Its about the new project:
+Learn to build AI chatbots and web apps using the OpenAI API, JavaScript, React, and Astro
